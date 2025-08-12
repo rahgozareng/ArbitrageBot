@@ -24,4 +24,7 @@ The bot uses:
 Python 3.9+ is recommended.  
 
 
-Example dependencies (adjust for your code):
+⚠ Disclaimer
+This bot is for educational purposes only.
+Crypto trading involves significant risk.
+Use at your own risk — the author is not responsible for any losses.
